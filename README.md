@@ -8,6 +8,6 @@ HTML, CSS and Javascript
 Explore a thoughtfully selected range of mens and womens fashion inspired by Indian tradition. Get modern styling tips with traditional twist and complete your look
 with elegant accessories like jewelry and classic footwear. Experince the perfect blend of modern trends and rich cultural heritage.
 ### Authors
-Sehajpreet Kaur
-Arshdeep Kaur
-Ramndeep Thind
+-Sehajpreet Kaur
+-Arshdeep Kaur
+-Ramndeep Thind
